@@ -2,7 +2,8 @@
 BuildingEnergyAnalysis by heatmap
 
 <div style="display: flex;">
-  <img src="labelmap.png" alt="라벨맵" width="300" height="auto">
+  <img src="Labelmap.png" alt="라벨맵" width="300" height="auto">
+  <img src="Heatmap.png" alt="라벨맵" width="300" height="auto">
 </div>
 
 # Since this code cannot be disclosed for real data, it replaces the analysis results with code and images.
